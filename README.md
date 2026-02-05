@@ -1,62 +1,109 @@
 # 🛡️ Cybersecurity Practice Repository
 
-Repository ini adalah **tempat latihan pribadi** saya untuk mempelajari dan mendalami bidang **Cybersecurity**, khususnya yang berkaitan dengan:
+![GitHub](https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge&logo=icloud)
+![GitHub](https://img.shields.io/badge/CTF-Challenges-red?style=for-the-badge&logo=codeforces)
+![GitHub](https://img.shields.io/badge/Ethical-Hacking-green?style=for-the-badge&logo=gitbook)
 
-* Capture The Flag (CTF)
-* Web Exploitation
-* Cryptography
-* Attack & Defense
-* Digital Forensics
-* Reverse Engineering
-
-Semua isi di dalam repository ini **hanya untuk tujuan edukasi dan pembelajaran**, bukan untuk digunakan pada sistem nyata tanpa izin.
+Repository ini adalah **tempat latihan pribadi** saya untuk mempelajari dan mendalami bidang **Cybersecurity**.
 
 ---
 
-## 🎯 Tujuan Repository
+## 📋 **Kategori Pembelajaran**
+
+<div align="center">
+
+| **Kategori** | **Ikon** | **Fokus** |
+|--------------|----------|-----------|
+| **🏁 CTF Challenges** | <img src="https://img.icons8.com/fluency/48/000000/flag.png" width="30"> | Capture The Flag competitions |
+| **🌐 Web Security** | <img src="https://img.icons8.com/fluency/48/000000/web.png" width="30"> | Web Exploitation & Security |
+| **🔐 Cryptography** | <img src="https://img.icons8.com/fluency/48/000000/encryption.png" width="30"> | Encryption & Decryption |
+| **⚔️ Attack & Defense** | <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="30"> | Red/Blue Team Operations |
+| **🔍 Digital Forensics** | <img src="https://img.icons8.com/fluency/48/000000/forensics.png" width="30"> | Forensic Analysis |
+| **⏪ Reverse Engineering** | <img src="https://img.icons8.com/fluency/48/000000/code.png" width="30"> | Binary Analysis |
+
+</div>
+
+---
+
+## 🎯 **Tujuan Repository**
 
 Repository ini dibuat untuk:
 
-* Melatih skill analisis keamanan
-* Membiasakan diri dengan pola soal CTF & LKS
-* Mendokumentasikan proses eksploitasi (write up / PoC)
-* Meningkatkan pemahaman tentang celah keamanan dan mitigasinya
+<div align="center">
+
+| **Tujuan** | **Ikon** |
+|------------|----------|
+| **🧠 Skill Development** | <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="30"> |
+| **🏆 Competition Prep** | <img src="https://img.icons8.com/fluency/48/000000/prize.png" width="30"> |
+| **📚 Knowledge Base** | <img src="https://img.icons8.com/fluency/48/000000/book.png" width="30"> |
+| **🛡️ Security Awareness** | <img src="https://img.icons8.com/fluency/48/000000/security-shield.png" width="30"> |
+
+</div>
 
 ---
 
-## 📂 Isi Repository
+## 📂 **Repository Structure**
 
-Di dalam [repo ini](https://github.com/frhndevweb/Write-Up/tree/master/write-up) terdapat:
+```bash
+📁 Write-Up/
+├── 🏁 CTF-Challenges
+├── 🌐 Web-Security
+├── 🔐 Cryptography
+├── ⚔️ Attack-Defense
+├── 🔍 Forensics
+└── ⏪ Reverse-Engineering
+```
 
-* Write-Up soal CTF (Crypto, Web, Forensic, dll)
-* Simulasi Attack & Defense
-* Contoh payload dan analisis
-* Catatan pribadi saat belajar
-
-Struktur file dapat berubah sesuai progres latihan.
-
----
-
-## ⚠️ Disclaimer
-
-Semua teknik yang dipelajari di sini:
-
-* **Hanya untuk pembelajaran**
-* **Tidak boleh digunakan untuk aktivitas ilegal**
-* Gunakan hanya pada sistem yang kamu miliki atau memiliki izin
-
-Saya tidak bertanggung jawab atas penyalahgunaan informasi dari repository ini.
+🔗 **Access Repository:** [github.com/frhndevweb/Write-Up](https://github.com/frhndevweb/Write-Up/)
 
 ---
 
-## 📬 Kontak
+## ⚠️ **Ethics & Compliance**
 
-Jika ingin berdiskusi, kolaborasi, atau bertanya:
+<div align="center">
 
-* 📧 Email: **[farhanhanafi656@gmail.com](mailto:farhanhanafi656@gmail.com)**
-* 📷 Instagram: **[@esperessos](https://instagram.com/esperessos)**
-* 🌐 Website: **[frhndevweb.my.id](https://frhndevweb.my.id)**
+| **Principle** | **Status** | **Icon** |
+|---------------|------------|----------|
+| **Educational Use Only** | ✅ Allowed | <img src="https://img.icons8.com/fluency/48/000000/ok.png" width="20"> |
+| **Authorized Testing** | ✅ Allowed | <img src="https://img.icons8.com/fluency/48/000000/ok.png" width="20"> |
+| **Illegal Activities** | ❌ Prohibited | <img src="https://img.icons8.com/fluency/48/000000/cancel.png" width="20"> |
+| **Unauthorized Access** | ❌ Prohibited | <img src="https://img.icons8.com/fluency/48/000000/cancel.png" width="20"> |
+
+</div>
+
+> **⚠️ Disclaimer:** Semua konten hanya untuk tujuan edukasi. Saya tidak bertanggung jawab atas penyalahgunaan informasi.
 
 ---
 
-🔥 *Stay curious, stay legal, stay hacking ethically.*
+## 🤝 **Connect With Me**
+
+<div align="center">
+
+| **Platform** | **Link** | **Icon** |
+|--------------|----------|----------|
+| **Email** | [farhanhanafi656@gmail.com](mailto:farhanhanafi656@gmail.com) | <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="25"> |
+| **GitHub** | [github.com/frhndevweb](https://github.com/frhndevweb) | <img src="https://img.icons8.com/fluency/48/000000/github.png" width="25"> |
+| **Website** | [frhndevweb.my.id](https://frhndevweb.my.id) | <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="25"> |
+| **Instagram** | [@esperessos](https://instagram.com/esperessos) | <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="25"> |
+
+</div>
+
+---
+
+## 🚀 **Quick Stats**
+
+![GitHub Repo stars](https://img.shields.io/github/stars/frhndevweb/Write-Up?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/frhndevweb/Write-Up)
+![GitHub repo size](https://img.shields.io/github/repo-size/frhndevweb/Write-Up)
+
+---
+
+<div align="center">
+
+## 🔥 **Stay Curious | Stay Legal | Stay Ethical**
+
+**"With great power comes great responsibility"** - Uncle Ben
+
+⭐ *Jika bermanfaat, jangan lupa bintangin repository!* ⭐
+
+</div>
