@@ -26,7 +26,7 @@ Repository ini dibuat untuk:
 
 ## 📂 Isi Repository
 
-Di dalam [repo ini](https://github.com/frhndevweb/write-up/tree/master/write-up) terdapat:
+Di dalam [repo ini](https://github.com/frhndevweb/Write-Up/tree/master/write-up) terdapat:
 
 * Write-Up soal CTF (Crypto, Web, Forensic, dll)
 * Simulasi Attack & Defense
